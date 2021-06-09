@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to right,  #ffd57b  0%,
+      #ff8585  100%);
+}
+
+h1 {
+    border: 7px solid #ffe0b9;
+    
+    color: #fcf6ae;
+    font-family: Cursive;
+    font-size: 200%;
+}  
+ 
+p {
+    color: #b12f21;
+    font-family: sans-serif;
+}
